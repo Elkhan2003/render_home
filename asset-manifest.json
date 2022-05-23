@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/render_home/static/css/main.0c493aed.css",
+    "main.js": "/render_home/static/js/main.ec320db9.js",
+    "static/media/Car3.png": "/render_home/static/media/Car3.0987c12f61a95d763a7f.png",
+    "static/media/Car2.png": "/render_home/static/media/Car2.d4dc1794d35d93cedfe7.png",
+    "static/media/Car1.png": "/render_home/static/media/Car1.d50b1c6cca3b9f6af4eb.png",
+    "static/media/man.jpg": "/render_home/static/media/man.f9e9d54c5eed329e824d.jpg",
+    "static/media/footer.jpg": "/render_home/static/media/footer.0598a6a6cd9896e89f05.jpg",
+    "static/media/devices-bg.jpg": "/render_home/static/media/devices-bg.82c4471bbb2ad4031f7d.jpg",
+    "static/media/Screenshot_60-removebg-preview.png": "/render_home/static/media/Screenshot_60-removebg-preview.e9506978b3193a30a900.png",
+    "static/media/Screenshot_59-removebg-preview.png": "/render_home/static/media/Screenshot_59-removebg-preview.76882c1a125626491ee4.png",
+    "static/media/Screenshot_58-removebg-preview.png": "/render_home/static/media/Screenshot_58-removebg-preview.7fd7fdcc65991baa7664.png",
+    "static/media/Screenshot_61-removebg-preview.png": "/render_home/static/media/Screenshot_61-removebg-preview.e8a41a34764c27fac553.png",
+    "index.html": "/render_home/index.html",
+    "main.0c493aed.css.map": "/render_home/static/css/main.0c493aed.css.map",
+    "main.ec320db9.js.map": "/render_home/static/js/main.ec320db9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c493aed.css",
+    "static/js/main.ec320db9.js"
+  ]
+}
